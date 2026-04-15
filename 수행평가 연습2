@@ -12,7 +12,8 @@ int main() {
     printf("1부터 10까지의 합: %d\n", sum);
     if (sum % 2 == 0) { 
         printf('결과는 짝수입니다.\n');
-    } else {
+    } 
+    else {
         printf("결과는 홀수입니다.\n")
     }
 
